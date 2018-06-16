@@ -26,7 +26,4 @@ public class Fib {
         return fibFilter(i+j, i, --number);
     }
 
-
-
-
 }
